@@ -1,0 +1,32 @@
+/*
+select {
+    attribution : value;
+*/
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    margin-left: 50px;
+}
+
+h2{
+    color: yellow;
+}
+
+h3{
+    color: aqua;
+}
+
+.superman{
+    color: antiquewhite;
+}
+
+#ironman{
+    color: blueviolet;
+    font-weight: 900;
+    letter-spacing: .4em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+}
